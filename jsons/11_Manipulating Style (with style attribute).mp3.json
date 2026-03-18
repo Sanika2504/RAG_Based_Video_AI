@@ -1,0 +1,1398 @@
+{
+    "chunks": [
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 0.0,
+            "end": 5.68,
+            "text": " so we have learnt how to change elements content and attributes"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 5.68,
+            "end": 9.42,
+            "text": " now we will talk about how to manipulate our styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 9.42,
+            "end": 14.06,
+            "text": " to manipulate styling we use our object's style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 14.06,
+            "end": 17.16,
+            "text": " if we want to check styling of any object"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 17.16,
+            "end": 21.56,
+            "text": " here we set it back to 35%"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 23.2,
+            "end": 29.52,
+            "text": " if we want to set styling of any object then first of all we can use our style attribute to check styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 29.84,
+            "end": 38.879999999999995,
+            "text": " let's suppose we access this object and try to set or check its styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 38.879999999999995,
+            "end": 41.68,
+            "text": " so this is our image and when we print the image"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 41.68,
+            "end": 43.980000000000004,
+            "text": " console.dir image"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 43.980000000000004,
+            "end": 48.44,
+            "text": " so the object we get has many different properties"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 48.44,
+            "end": 51.94,
+            "text": " and one of these properties is our style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 51.94,
+            "end": 53.94,
+            "text": " means this property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 53.94,
+            "end": 59.120000000000005,
+            "text": " so all the styling applied on this image will be applied on this property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 59.279999999999994,
+            "end": 61.28,
+            "text": " and what is the value of style property?"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 61.28,
+            "end": 64.86,
+            "text": " value of style property also becomes an object"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 64.86,
+            "end": 70.22,
+            "text": " so we will notice here that we have different styling mentioned which is coming near to every element"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 70.22,
+            "end": 75.9,
+            "text": " here we have background color, background image, background origin, background position"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 75.9,
+            "end": 79.14,
+            "text": " you will notice that there is no hyphen in background image"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 79.14,
+            "end": 81.14,
+            "text": " means in CSS when we write background image"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 81.14,
+            "end": 84.28,
+            "text": " in CSS if we have to write any property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 84.28,
+            "end": 88.62,
+            "text": " so generally it is written in such a way that there are many words in it so hyphen comes in between"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 88.84,
+            "end": 90.84,
+            "text": " so we write background image"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 90.84,
+            "end": 94.72,
+            "text": " but when same properties are assigned in style properties in javascript"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 94.72,
+            "end": 96.72,
+            "text": " so it comes under our camel case"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 96.72,
+            "end": 102.04,
+            "text": " camel case means the case in which we have defined our variables in javascript"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 102.04,
+            "end": 108.92,
+            "text": " so background color or background image will be changed to background image"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 108.92,
+            "end": 111.92,
+            "text": " similarly if we have any property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 111.92,
+            "end": 113.92,
+            "text": " like we can see here"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 113.92,
+            "end": 116.72,
+            "text": " if we have property border-bottom"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 116.82,
+            "end": 121.06,
+            "text": " so we write border-bottom in CSS in such a way with hyphen"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 121.06,
+            "end": 125.38,
+            "text": " but same property comes here and gets changed to border-bottom"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 125.38,
+            "end": 128.26,
+            "text": " so we have camel case instead of hyphen"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 128.26,
+            "end": 131.62,
+            "text": " similarly there are many different properties"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 131.62,
+            "end": 134.5,
+            "text": " we can see our color property here"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 134.5,
+            "end": 137.94,
+            "text": " see this carefully, this is our color property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 137.94,
+            "end": 140.7,
+            "text": " now there is no color set for image so its value is also not set"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 140.7,
+            "end": 144.22,
+            "text": " so here we will notice that we can see many styling properties"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 144.22,
+            "end": 146.22,
+            "text": " to style our element"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 146.72,
+            "end": 150.14,
+            "text": " if we want we can print image.style"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 150.14,
+            "end": 153.5,
+            "text": " so we will get to know that this is a CSS style declaration"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 153.5,
+            "end": 155.5,
+            "text": " in which we have many values"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 155.5,
+            "end": 157.5,
+            "text": " now this is our image"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 157.5,
+            "end": 160.78,
+            "text": " if we want we can access our heading in the same way"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 160.78,
+            "end": 164.82,
+            "text": " let heading is equal to document.querySelector"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 164.82,
+            "end": 169.82,
+            "text": " and we will pass our h1 for our heading"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 169.82,
+            "end": 174.3,
+            "text": " now if we want we can print heading.style for our heading"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 175.08,
+            "end": 179.56,
+            "text": " so we will get many values from this"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 179.56,
+            "end": 182.52,
+            "text": " now to change the styling of this heading"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 182.52,
+            "end": 185.96,
+            "text": " we can start changing the attributes inside the style"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 185.96,
+            "end": 187.96,
+            "text": " so what are the attributes inside the style"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 187.96,
+            "end": 190.60000000000002,
+            "text": " let's start with our color attribute"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 190.60000000000002,
+            "end": 193.96,
+            "text": " so if we want to change the color of this heading"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 193.96,
+            "end": 196.36,
+            "text": " let's suppose we want to change its color to purple"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 196.36,
+            "end": 201.16000000000003,
+            "text": " so we can assign value to our key color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 201.16000000000003,
+            "end": 203.16000000000003,
+            "text": " purple, save"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 203.78,
+            "end": 206.38,
+            "text": " and what happened our heading changed to purple"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 206.38,
+            "end": 210.38,
+            "text": " if we want we can also change its color to green"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 210.38,
+            "end": 212.38,
+            "text": " so we set it to green so what happened to spiderman"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 212.38,
+            "end": 214.38,
+            "text": " it got printed in green color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 214.38,
+            "end": 218.54,
+            "text": " in the same way let's suppose we want to change our background color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 218.54,
+            "end": 223.57999999999998,
+            "text": " so background color, usually we write our background color in CSS"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 223.57999999999998,
+            "end": 225.9,
+            "text": " this background color property is there in CSS"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 225.9,
+            "end": 228.5,
+            "text": " but here everything will be converted to camel case"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 228.5,
+            "end": 230.5,
+            "text": " so this background color will be our property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 230.72,
+            "end": 232.72,
+            "text": " and we want to give background color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 232.72,
+            "end": 234.72,
+            "text": " let's say yellow"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 234.72,
+            "end": 237.2,
+            "text": " so our heading got yellow background color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 237.2,
+            "end": 240.88,
+            "text": " so in this way we can set the styling of different elements"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 240.88,
+            "end": 242.88,
+            "text": " now we are going to do one more thing"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 242.88,
+            "end": 246.08,
+            "text": " in our box, all the li elements"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 246.08,
+            "end": 247.4,
+            "text": " i.e. anchor tags"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 247.4,
+            "end": 249.4,
+            "text": " for them we want to change the styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 249.4,
+            "end": 251.4,
+            "text": " that all the anchor tags"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 251.4,
+            "end": 254.4,
+            "text": " their color should change to yellow"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 254.4,
+            "end": 257.4,
+            "text": " so for that we will write code in our app.js"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 257.4,
+            "end": 260.12,
+            "text": " basically the box we have made"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 260.22,
+            "end": 262.22,
+            "text": " in this we have unordered list"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 262.22,
+            "end": 264.22,
+            "text": " in unordered list we have li tags"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 264.22,
+            "end": 266.22,
+            "text": " in li we have anchor tags"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 266.22,
+            "end": 269.82,
+            "text": " we want to change the color of all the anchor tags"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 269.82,
+            "end": 271.82,
+            "text": " to the color let's say yellow"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 271.82,
+            "end": 273.82,
+            "text": " so first of all we can select links"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 273.82,
+            "end": 277.82,
+            "text": " let links is equal to document.query"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 277.82,
+            "end": 279.82,
+            "text": " selector all"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 279.82,
+            "end": 283.82,
+            "text": " from selector all all our anchor tags will come to us"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 283.82,
+            "end": 285.82,
+            "text": " but we don't want all these anchor tags"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 285.82,
+            "end": 289.82,
+            "text": " we want all those anchor tags which come in our box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 290.52,
+            "end": 292.52,
+            "text": " so for that we can select our hash"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 292.52,
+            "end": 294.52,
+            "text": " box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 294.52,
+            "end": 296.52,
+            "text": " or this is our class"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 296.52,
+            "end": 298.52,
+            "text": " this is a class"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 298.52,
+            "end": 300.52,
+            "text": " dot box and then our anchor tags"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 300.52,
+            "end": 302.52,
+            "text": " so our links got selected"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 302.52,
+            "end": 304.52,
+            "text": " so what we got from links"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 304.52,
+            "end": 306.52,
+            "text": " we got a collection"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 306.52,
+            "end": 308.52,
+            "text": " we can run loop on it"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 308.52,
+            "end": 310.52,
+            "text": " for let i equal 0"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 310.52,
+            "end": 312.52,
+            "text": " i less than links dot length"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 312.52,
+            "end": 314.52,
+            "text": " i plus plus"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 314.52,
+            "end": 316.52,
+            "text": " every time what we will do"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 316.52,
+            "end": 318.52,
+            "text": " our links or links of i"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 319.21999999999997,
+            "end": 321.21999999999997,
+            "text": " we can reset our style.color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 321.21999999999997,
+            "end": 323.21999999999997,
+            "text": " to the color yellow"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 323.21999999999997,
+            "end": 325.21999999999997,
+            "text": " let's save"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 325.21999999999997,
+            "end": 327.21999999999997,
+            "text": " and refresh"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 327.21999999999997,
+            "end": 329.21999999999997,
+            "text": " as soon as our javascript code"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 329.21999999999997,
+            "end": 331.21999999999997,
+            "text": " run all these colors changed to yellow"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 331.21999999999997,
+            "end": 333.21999999999997,
+            "text": " we can also make it purple"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 333.21999999999997,
+            "end": 335.21999999999997,
+            "text": " save and refresh"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 335.21999999999997,
+            "end": 337.21999999999997,
+            "text": " so what happened"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 337.21999999999997,
+            "end": 339.21999999999997,
+            "text": " it got set in purple"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 339.21999999999997,
+            "end": 341.21999999999997,
+            "text": " we can also make it green"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 341.21999999999997,
+            "end": 343.21999999999997,
+            "text": " save and refresh"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 343.21999999999997,
+            "end": 345.21999999999997,
+            "text": " now we have put for loop"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 345.21999999999997,
+            "end": 347.21999999999997,
+            "text": " there is one more better way"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 347.92,
+            "end": 349.92,
+            "text": " to use for loop"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 349.92,
+            "end": 351.92,
+            "text": " for link of links"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 351.92,
+            "end": 353.92,
+            "text": " and simply"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 353.92,
+            "end": 355.92,
+            "text": " we can do link dot style"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 355.92,
+            "end": 357.92,
+            "text": " dot color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 357.92,
+            "end": 359.92,
+            "text": " is equal to purple"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 359.92,
+            "end": 361.92,
+            "text": " save and refresh"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 361.92,
+            "end": 363.92,
+            "text": " so what happened it got changed to purple"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 363.92,
+            "end": 365.92,
+            "text": " so in this way"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 365.92,
+            "end": 367.92,
+            "text": " we can change the style of all the elements"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 367.92,
+            "end": 369.92,
+            "text": " with the help of our javascript"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 369.92,
+            "end": 371.92,
+            "text": " now here"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 371.92,
+            "end": 373.92,
+            "text": " one more special thing about our style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 373.92,
+            "end": 375.92,
+            "text": " this style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 376.62,
+            "end": 378.62,
+            "text": " with the help of this style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 378.62,
+            "end": 380.62,
+            "text": " we can access all inline styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 380.62,
+            "end": 382.62,
+            "text": " means"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 382.62,
+            "end": 384.62,
+            "text": " if you have defined any style in css"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 384.62,
+            "end": 386.62,
+            "text": " then inside css"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 386.62,
+            "end": 388.62,
+            "text": " style can't be accessed"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 388.62,
+            "end": 390.62,
+            "text": " or set with this property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 390.62,
+            "end": 392.62,
+            "text": " it means that"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 392.62,
+            "end": 394.62,
+            "text": " now the color of links"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 394.62,
+            "end": 396.62,
+            "text": " all of this"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 396.62,
+            "end": 398.62,
+            "text": " is set in inline style"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 398.62,
+            "end": 400.62,
+            "text": " not set in css"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 400.62,
+            "end": 402.62,
+            "text": " that's why we don't use style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 402.62,
+            "end": 404.62,
+            "text": " frequently to set our styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 405.32,
+            "end": 407.32,
+            "text": " for example"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 407.32,
+            "end": 409.32,
+            "text": " our box object"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 409.32,
+            "end": 411.32,
+            "text": " we have set many styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 411.32,
+            "end": 413.32,
+            "text": " background color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 413.32,
+            "end": 415.32,
+            "text": " width padding body"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 415.32,
+            "end": 417.32,
+            "text": " now once"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 417.32,
+            "end": 419.32,
+            "text": " if we check this box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 419.32,
+            "end": 421.32,
+            "text": " in our javascript"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 421.32,
+            "end": 423.32,
+            "text": " let box is equal to document dot"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 423.32,
+            "end": 425.32,
+            "text": " query selector"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 425.32,
+            "end": 427.32,
+            "text": " and inside this"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 427.32,
+            "end": 429.32,
+            "text": " we access our box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 429.32,
+            "end": 431.32,
+            "text": " so what will happen"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 431.32,
+            "end": 433.32,
+            "text": " we will print the styling of box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 434.02,
+            "end": 436.02,
+            "text": " inside this we will get many values"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 436.02,
+            "end": 438.02,
+            "text": " now first of all"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 438.02,
+            "end": 440.02,
+            "text": " we will check whether background color of box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 440.02,
+            "end": 442.02,
+            "text": " is visible inside dot style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 442.02,
+            "end": 444.02,
+            "text": " in dot style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 444.02,
+            "end": 446.02,
+            "text": " we will go to our background color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 446.02,
+            "end": 448.02,
+            "text": " here"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 448.02,
+            "end": 450.02,
+            "text": " this is background color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 450.02,
+            "end": 452.02,
+            "text": " we can see that background color value"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 452.02,
+            "end": 454.02,
+            "text": " is empty"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 454.02,
+            "end": 456.02,
+            "text": " there we will see our border property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 456.02,
+            "end": 458.02,
+            "text": " so here is our border"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 458.02,
+            "end": 460.02,
+            "text": " border is also empty"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 460.02,
+            "end": 462.02,
+            "text": " there we can see our width"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 462.71999999999997,
+            "end": 464.71999999999997,
+            "text": " padding is also empty"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 464.71999999999997,
+            "end": 466.71999999999997,
+            "text": " we have set padding as 1rem"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 466.71999999999997,
+            "end": 468.71999999999997,
+            "text": " so when we go to b"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 468.71999999999997,
+            "end": 470.71999999999997,
+            "text": " we can see padding is also empty"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 470.71999999999997,
+            "end": 472.71999999999997,
+            "text": " so basically for box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 472.71999999999997,
+            "end": 474.71999999999997,
+            "text": " we have set many styling inside css"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 474.71999999999997,
+            "end": 476.71999999999997,
+            "text": " but we are not able to access it"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 476.71999999999997,
+            "end": 478.71999999999997,
+            "text": " because style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 478.71999999999997,
+            "end": 480.71999999999997,
+            "text": " gives us all inline style"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 480.71999999999997,
+            "end": 482.71999999999997,
+            "text": " here for box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 482.71999999999997,
+            "end": 484.71999999999997,
+            "text": " if we have set same background color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 484.71999999999997,
+            "end": 486.71999999999997,
+            "text": " light grey"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 486.71999999999997,
+            "end": 488.71999999999997,
+            "text": " how we would have set it"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 488.71999999999997,
+            "end": 490.71999999999997,
+            "text": " style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 491.42,
+            "end": 493.42,
+            "text": " now if we refresh"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 493.42,
+            "end": 495.42,
+            "text": " we would have got box"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 495.42,
+            "end": 497.42,
+            "text": " style"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 497.42,
+            "end": 499.42,
+            "text": " so now if we go to"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 499.42,
+            "end": 501.42,
+            "text": " background color"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 501.42,
+            "end": 503.42,
+            "text": " this time background color is light grey"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 503.42,
+            "end": 505.42,
+            "text": " so basically we can see only inline style"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 505.42,
+            "end": 507.42,
+            "text": " which we have set"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 507.42,
+            "end": 509.42,
+            "text": " but generally all the styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 509.42,
+            "end": 511.42,
+            "text": " which we write"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 511.42,
+            "end": 513.4200000000001,
+            "text": " all those styling is written inside css"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 513.4200000000001,
+            "end": 515.4200000000001,
+            "text": " that's why we don't use style property"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 515.4200000000001,
+            "end": 517.4200000000001,
+            "text": " frequently to set styling"
+        },
+        {
+            "number": "11",
+            "title": "Manipulating Style (with style attribute)",
+            "start": 517.4200000000001,
+            "end": 519.4200000000001,
+            "text": " so this is the reason"
+        }
+    ],
+    "text": " so we have learnt how to change elements content and attributes now we will talk about how to manipulate our styling to manipulate styling we use our object's style property if we want to check styling of any object here we set it back to 35% if we want to set styling of any object then first of all we can use our style attribute to check styling let's suppose we access this object and try to set or check its styling so this is our image and when we print the image console.dir image so the object we get has many different properties and one of these properties is our style property means this property so all the styling applied on this image will be applied on this property and what is the value of style property? value of style property also becomes an object so we will notice here that we have different styling mentioned which is coming near to every element here we have background color, background image, background origin, background position you will notice that there is no hyphen in background image means in CSS when we write background image in CSS if we have to write any property so generally it is written in such a way that there are many words in it so hyphen comes in between so we write background image but when same properties are assigned in style properties in javascript so it comes under our camel case camel case means the case in which we have defined our variables in javascript so background color or background image will be changed to background image similarly if we have any property like we can see here if we have property border-bottom so we write border-bottom in CSS in such a way with hyphen but same property comes here and gets changed to border-bottom so we have camel case instead of hyphen similarly there are many different properties we can see our color property here see this carefully, this is our color property now there is no color set for image so its value is also not set so here we will notice that we can see many styling properties to style our element if we want we can print image.style so we will get to know that this is a CSS style declaration in which we have many values now this is our image if we want we can access our heading in the same way let heading is equal to document.querySelector and we will pass our h1 for our heading now if we want we can print heading.style for our heading so we will get many values from this now to change the styling of this heading we can start changing the attributes inside the style so what are the attributes inside the style let's start with our color attribute so if we want to change the color of this heading let's suppose we want to change its color to purple so we can assign value to our key color purple, save and what happened our heading changed to purple if we want we can also change its color to green so we set it to green so what happened to spiderman it got printed in green color in the same way let's suppose we want to change our background color so background color, usually we write our background color in CSS this background color property is there in CSS but here everything will be converted to camel case so this background color will be our property and we want to give background color let's say yellow so our heading got yellow background color so in this way we can set the styling of different elements now we are going to do one more thing in our box, all the li elements i.e. anchor tags for them we want to change the styling that all the anchor tags their color should change to yellow so for that we will write code in our app.js basically the box we have made in this we have unordered list in unordered list we have li tags in li we have anchor tags we want to change the color of all the anchor tags to the color let's say yellow so first of all we can select links let links is equal to document.query selector all from selector all all our anchor tags will come to us but we don't want all these anchor tags we want all those anchor tags which come in our box so for that we can select our hash box or this is our class this is a class dot box and then our anchor tags so our links got selected so what we got from links we got a collection we can run loop on it for let i equal 0 i less than links dot length i plus plus every time what we will do our links or links of i we can reset our style.color to the color yellow let's save and refresh as soon as our javascript code run all these colors changed to yellow we can also make it purple save and refresh so what happened it got set in purple we can also make it green save and refresh now we have put for loop there is one more better way to use for loop for link of links and simply we can do link dot style dot color is equal to purple save and refresh so what happened it got changed to purple so in this way we can change the style of all the elements with the help of our javascript now here one more special thing about our style property this style property with the help of this style property we can access all inline styling means if you have defined any style in css then inside css style can't be accessed or set with this property it means that now the color of links all of this is set in inline style not set in css that's why we don't use style property frequently to set our styling for example our box object we have set many styling background color width padding body now once if we check this box in our javascript let box is equal to document dot query selector and inside this we access our box so what will happen we will print the styling of box inside this we will get many values now first of all we will check whether background color of box is visible inside dot style property in dot style property we will go to our background color here this is background color we can see that background color value is empty there we will see our border property so here is our border border is also empty there we can see our width padding is also empty we have set padding as 1rem so when we go to b we can see padding is also empty so basically for box we have set many styling inside css but we are not able to access it because style property gives us all inline style here for box if we have set same background color light grey how we would have set it style property now if we refresh we would have got box style so now if we go to background color this time background color is light grey so basically we can see only inline style which we have set but generally all the styling which we write all those styling is written inside css that's why we don't use style property frequently to set styling so this is the reason"
+}

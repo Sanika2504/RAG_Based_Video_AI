@@ -1,0 +1,523 @@
+{
+    "chunks": [
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 0.0,
+            "end": 3.24,
+            "text": " Next element is my hr tag"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 3.24,
+            "end": 5.24,
+            "text": " which is a horizontal rule element"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 5.24,
+            "end": 9.84,
+            "text": " Horizontal rule element brings breaks in my page"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 9.84,
+            "end": 12.4,
+            "text": " If I have written many lines"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 12.4,
+            "end": 14.4,
+            "text": " For example, I have written paragraph"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 14.4,
+            "end": 17.48,
+            "text": " This is my name which is Shraddha"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 17.48,
+            "end": 19.92,
+            "text": " I have written many texts like this"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 19.92,
+            "end": 22.84,
+            "text": " and I want a line to come in between"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 22.84,
+            "end": 26.12,
+            "text": " which divides my page into this part and this part"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 26.12,
+            "end": 30.36,
+            "text": " To bring breaks in the page, I use hr tag"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 30.36,
+            "end": 33.72,
+            "text": " In hr tag, opening and closing tags are not different"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 33.72,
+            "end": 35.0,
+            "text": " There is only a single tag"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 35.0,
+            "end": 37.0,
+            "text": " Like this, I have written an angular bracket"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 37.0,
+            "end": 39.0,
+            "text": " hr and closing bracket"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 39.0,
+            "end": 42.2,
+            "text": " This tag is very similar to my br tag"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 42.2,
+            "end": 45.400000000000006,
+            "text": " br tag used to give me line break"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 45.400000000000006,
+            "end": 48.6,
+            "text": " whereas hr tag is like a divider for me"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 48.6,
+            "end": 53.72,
+            "text": " To learn this, I am going to write some paragraphs in my html document"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 53.72,
+            "end": 55.72,
+            "text": " For example, I have written one paragraph"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 55.72,
+            "end": 60.04,
+            "text": " This is my name which is Shraddha Thapra"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 60.04,
+            "end": 62.04,
+            "text": " Let's make another paragraph"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 62.04,
+            "end": 66.84,
+            "text": " I am your web development teacher"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 66.84,
+            "end": 68.84,
+            "text": " Let's make another tag"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 68.84,
+            "end": 72.6,
+            "text": " I teach you on Apna College"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 72.6,
+            "end": 74.6,
+            "text": " Let's write another paragraph"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 74.6,
+            "end": 76.6,
+            "text": " I love coding"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 76.6,
+            "end": 78.6,
+            "text": " Let's save this and what I am going to do is"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 78.6,
+            "end": 80.6,
+            "text": " Let's refresh this page once"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 80.6,
+            "end": 82.6,
+            "text": " So, I have got all the paragraphs"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 83.47999999999999,
+            "end": 86.75999999999999,
+            "text": " After the second paragraph, I am going to write my hr tag"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 86.75999999999999,
+            "end": 88.75999999999999,
+            "text": " Let's save and run again"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 88.75999999999999,
+            "end": 92.44,
+            "text": " So, this horizontal line is on the screen"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 92.44,
+            "end": 94.44,
+            "text": " This means a divider on the page"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 94.44,
+            "end": 96.44,
+            "text": " or a horizontal line"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 96.44,
+            "end": 98.44,
+            "text": " or a horizontal line"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 98.44,
+            "end": 103.47999999999999,
+            "text": " We can use this line to divide our page into different sections"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 103.47999999999999,
+            "end": 105.47999999999999,
+            "text": " We are going to do one thing"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 105.47999999999999,
+            "end": 109.47999999999999,
+            "text": " The content we had written for the portfolio page"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 110.36,
+            "end": 112.36,
+            "text": " We are going to copy this into a separate file"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 112.36,
+            "end": 114.36,
+            "text": " portfolio.html"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 114.36,
+            "end": 116.36,
+            "text": " We are going to use our hr tag in this"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 116.36,
+            "end": 118.36,
+            "text": " I have copied and pasted my code"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 118.36,
+            "end": 120.36,
+            "text": " Let's save this"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 120.36,
+            "end": 122.36,
+            "text": " Now, my page looks like this"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 122.36,
+            "end": 124.36,
+            "text": " This is my portfolio page"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 124.36,
+            "end": 126.36,
+            "text": " I can't see the image"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 126.36,
+            "end": 128.36,
+            "text": " because the image is in a separate folder"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 128.36,
+            "end": 130.36,
+            "text": " I am going to transfer my image in my web classroom folder"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 130.36,
+            "end": 132.36,
+            "text": " Let's refresh this again"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 132.36,
+            "end": 134.36,
+            "text": " and paste it in the same folder"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 134.36,
+            "end": 136.36,
+            "text": " Let's save this"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 136.36,
+            "end": 138.36,
+            "text": " Let's run again"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 139.24,
+            "end": 141.24,
+            "text": " This was my portfolio page"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 141.24,
+            "end": 143.24,
+            "text": " Now, I want my this much part"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 143.24,
+            "end": 145.24,
+            "text": " to be in a separate section"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 145.24,
+            "end": 150.04000000000002,
+            "text": " My education section, skill section, hobby section, contact section should be separate"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 150.04000000000002,
+            "end": 152.84,
+            "text": " I am going to add a horizontal line break in between all these"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 152.84,
+            "end": 154.84,
+            "text": " My this much part"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 154.84,
+            "end": 156.84,
+            "text": " where my heading and photo is included"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 156.84,
+            "end": 158.84,
+            "text": " I am going to add hr tag here"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 158.84,
+            "end": 160.84,
+            "text": " Let's save this"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 160.84,
+            "end": 162.84,
+            "text": " You can see"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 162.84,
+            "end": 164.84,
+            "text": " that the closing and opening tags are in the same place"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 164.84,
+            "end": 166.84,
+            "text": " By default, my VS code is"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 167.32,
+            "end": 169.32,
+            "text": " adding a slash for me"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 169.32,
+            "end": 171.32,
+            "text": " But even if I don't add a slash, my code will work"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 171.32,
+            "end": 173.32,
+            "text": " We are going to copy this same thing"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 173.32,
+            "end": 175.32,
+            "text": " after our education section"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 175.32,
+            "end": 177.32,
+            "text": " Same thing after my skill section"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 177.32,
+            "end": 179.32,
+            "text": " and my hobby section"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 179.32,
+            "end": 181.32,
+            "text": " Let's save and refresh this"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 181.32,
+            "end": 183.32,
+            "text": " So, in this way, my whole page"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 183.32,
+            "end": 185.32,
+            "text": " is divided into different sections"
+        },
+        {
+            "number": "04",
+            "title": "Hr Tag",
+            "start": 185.32,
+            "end": 187.32,
+            "text": " So, in this way, we use our hr tag"
+        }
+    ],
+    "text": " Next element is my hr tag which is a horizontal rule element Horizontal rule element brings breaks in my page If I have written many lines For example, I have written paragraph This is my name which is Shraddha I have written many texts like this and I want a line to come in between which divides my page into this part and this part To bring breaks in the page, I use hr tag In hr tag, opening and closing tags are not different There is only a single tag Like this, I have written an angular bracket hr and closing bracket This tag is very similar to my br tag br tag used to give me line break whereas hr tag is like a divider for me To learn this, I am going to write some paragraphs in my html document For example, I have written one paragraph This is my name which is Shraddha Thapra Let's make another paragraph I am your web development teacher Let's make another tag I teach you on Apna College Let's write another paragraph I love coding Let's save this and what I am going to do is Let's refresh this page once So, I have got all the paragraphs After the second paragraph, I am going to write my hr tag Let's save and run again So, this horizontal line is on the screen This means a divider on the page or a horizontal line or a horizontal line We can use this line to divide our page into different sections We are going to do one thing The content we had written for the portfolio page We are going to copy this into a separate file portfolio.html We are going to use our hr tag in this I have copied and pasted my code Let's save this Now, my page looks like this This is my portfolio page I can't see the image because the image is in a separate folder I am going to transfer my image in my web classroom folder Let's refresh this again and paste it in the same folder Let's save this Let's run again This was my portfolio page Now, I want my this much part to be in a separate section My education section, skill section, hobby section, contact section should be separate I am going to add a horizontal line break in between all these My this much part where my heading and photo is included I am going to add hr tag here Let's save this You can see that the closing and opening tags are in the same place By default, my VS code is adding a slash for me But even if I don't add a slash, my code will work We are going to copy this same thing after our education section Same thing after my skill section and my hobby section Let's save and refresh this So, in this way, my whole page is divided into different sections So, in this way, we use our hr tag"
+}

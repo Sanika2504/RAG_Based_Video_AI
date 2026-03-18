@@ -1,0 +1,8 @@
+ Here are video chunks containing title , number , text:
+
+
+[{"title":"Sup Sub Tags","number":"05","start":221.52,"end":223.64,"text":" Those tags that come inside each other"},{"title":"Hr Tag","number":"04","start":162.84,"end":164.84,"text":" that the closing and opening tags are in the same place"},{"title":"Sup Sub Tags","number":"05","start":133.56,"end":135.84,"text":" This is my opening tag, this is my closing tag"},{"title":"Hr Tag","number":"04","start":30.36,"end":33.72,"text":" In hr tag, opening and closing tags are not different"},{"title":"Selecting Elements by Tag Name","number":"07","start":0.0,"end":3.52,"text":" Now, just like we have a class name, we also have a tag name"},{"title":"Setting Content in Objects","number":"09","start":214.48,"end":216.48,"text":" That is, which tag has been used"},{"title":"Hr Tag","number":"04","start":33.72,"end":35.0,"text":" There is only a single tag"},{"title":"HTML Entities","number":"10","start":199.32,"end":205.8,"text":" like in html, because all my tags start with less than symbol and end with greater than symbol"},{"title":"Hr Tag","number":"04","start":0.0,"end":3.24,"text":" Next element is my hr tag"},{"title":"Manipulating Style (with style attribute)","number":"11","start":246.08,"end":247.4,"text":" i.e. anchor tags"}]
+------------------------------------------
+where is tags conclude in course ?
+User ask this question related to video chunks , you have to answer in human way (don't mention the above foramt its just form you) where and how much content is taught where (in which video and at what timestamp)
+and guide the user to go to that particular video

@@ -1,0 +1,292 @@
+{
+    "chunks": [
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 0.0,
+            "end": 3.52,
+            "text": " Now, just like we have a class name, we also have a tag name"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 3.52,
+            "end": 7.46,
+            "text": " which means we can select elements using their tag name"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 7.46,
+            "end": 11.48,
+            "text": " so this also returns our elements as an HTML collection"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 11.48,
+            "end": 13.88,
+            "text": " like, let's suppose we want to select all the paragraph tags"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 13.88,
+            "end": 19.12,
+            "text": " or all the list tags, which we will get in the form of HTML collection"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 19.12,
+            "end": 23.48,
+            "text": " and if that tag doesn't exist in the document, then we will get an empty collection"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 23.48,
+            "end": 28.76,
+            "text": " like if we want to select all the paragraph tags of this page, let's comment this out"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 29.080000000000002,
+            "end": 34.44,
+            "text": " to select all the paragraph tags of the page, we can write"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 34.44,
+            "end": 39.120000000000005,
+            "text": " document.getElements by tag name"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 39.120000000000005,
+            "end": 42.2,
+            "text": " and we can add our paragraph tag in the tag name"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 42.2,
+            "end": 48.24,
+            "text": " now when we add the paragraph tag, we have to write the tag name in the HTML"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 48.24,
+            "end": 52.0,
+            "text": " we can make it capital or small"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 52.0,
+            "end": 55.040000000000006,
+            "text": " so we will make it capital or small, it doesn't matter"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 55.040000000000006,
+            "end": 57.0,
+            "text": " we will get the correct answer in both the cases"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 57.96,
+            "end": 59.84,
+            "text": " so what we have is an HTML collection"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 59.84,
+            "end": 62.36,
+            "text": " we have two paragraph tags in the collection"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 62.36,
+            "end": 63.88,
+            "text": " in the form of an object"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 63.88,
+            "end": 65.48,
+            "text": " this is our first object"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 65.48,
+            "end": 68.68,
+            "text": " this paragraph which has no id or class"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 68.68,
+            "end": 71.64,
+            "text": " this is our second paragraph which has an id of equal to the description"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 71.64,
+            "end": 75.56,
+            "text": " we can also manipulate their values individually"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 75.56,
+            "end": 77.68,
+            "text": " like we talked about inner text"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 77.68,
+            "end": 79.28,
+            "text": " so we can simply write"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 79.28,
+            "end": 82.28,
+            "text": " this will be our collection return"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 82.32000000000001,
+            "end": 87.08,
+            "text": " from this much line and when we access our first index of this collection"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 87.08,
+            "end": 89.2,
+            "text": " so we are talking about this paragraph"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 89.2,
+            "end": 94.92,
+            "text": " in this paragraph, we can change the inner text property to ABC"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 94.92,
+            "end": 97.08,
+            "text": " as soon as we do this and enter"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 97.08,
+            "end": 100.4,
+            "text": " so the value of our paragraph will change to ABC"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 100.4,
+            "end": 102.24000000000001,
+            "text": " so such manipulations are possible"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 102.24000000000001,
+            "end": 104.44,
+            "text": " but we should not do this permanently"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 104.44,
+            "end": 105.84,
+            "text": " directly from the console"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 105.84,
+            "end": 109.8,
+            "text": " but basically it is possible to access elements only with tag name"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 109.8,
+            "end": 112.28,
+            "text": " but in this index.html"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 112.28,
+            "end": 114.28,
+            "text": " we have never used italic tag"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 114.28,
+            "end": 116.36,
+            "text": " like we have bold, we have italic tag"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 116.36,
+            "end": 120.0,
+            "text": " we have never used it or we have never used span tag"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 120.0,
+            "end": 123.16,
+            "text": " so if we write get elements by tag name"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 123.16,
+            "end": 124.72,
+            "text": " and we will write span here"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 124.72,
+            "end": 126.88,
+            "text": " in that case we will get an empty HTML collection"
+        },
+        {
+            "number": "07",
+            "title": "Selecting Elements by Tag Name",
+            "start": 126.88,
+            "end": 130.24,
+            "text": " because span tag has never been used in our entire document"
+        }
+    ],
+    "text": " Now, just like we have a class name, we also have a tag name which means we can select elements using their tag name so this also returns our elements as an HTML collection like, let's suppose we want to select all the paragraph tags or all the list tags, which we will get in the form of HTML collection and if that tag doesn't exist in the document, then we will get an empty collection like if we want to select all the paragraph tags of this page, let's comment this out to select all the paragraph tags of the page, we can write document.getElements by tag name and we can add our paragraph tag in the tag name now when we add the paragraph tag, we have to write the tag name in the HTML we can make it capital or small so we will make it capital or small, it doesn't matter we will get the correct answer in both the cases so what we have is an HTML collection we have two paragraph tags in the collection in the form of an object this is our first object this paragraph which has no id or class this is our second paragraph which has an id of equal to the description we can also manipulate their values individually like we talked about inner text so we can simply write this will be our collection return from this much line and when we access our first index of this collection so we are talking about this paragraph in this paragraph, we can change the inner text property to ABC as soon as we do this and enter so the value of our paragraph will change to ABC so such manipulations are possible but we should not do this permanently directly from the console but basically it is possible to access elements only with tag name but in this index.html we have never used italic tag like we have bold, we have italic tag we have never used it or we have never used span tag so if we write get elements by tag name and we will write span here in that case we will get an empty HTML collection because span tag has never been used in our entire document"
+}
